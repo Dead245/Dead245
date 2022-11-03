@@ -5,7 +5,7 @@ Hi! My actual name is Colton and I an on a journey to learn all things programmi
 
 ## Experience
 
-I've fiddled with many things here's a quick list:
+I've fiddled with many things here's a small list:
 
 |Language        |  Experience Type                          
 |----------------|--------------------
