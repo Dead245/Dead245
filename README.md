@@ -1,7 +1,7 @@
 # Welcome
 
 Hi! My actual name is Colton and I an on a journey to learn all things programming related, frontend, backend, you name it!
-> *Currently Learning: C++*
+> *Currently Learning: C++ and how GitHub works*
 
 ## Experience
 
