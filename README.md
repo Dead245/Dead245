@@ -13,6 +13,7 @@ I've fiddled with many things here's a small list:
 | C#             | Using Unity Game Engine            
 | C              | Learned through college courses
 | JavaScript     | From high school programming class 
+| Python         | From high school programming class, also used its turtle library
 | HTML           | From Web Design classes
 | GitHub         | *Wait isn't that what I'm using right now?*
 | Markdown       | Used to create this README document
