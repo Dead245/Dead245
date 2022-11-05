@@ -11,7 +11,7 @@ I've fiddled with many things here's a small list:
 |----------------|--------------------
 | C++            | Mainly from personal experience and projects    
 | C#             | Using Unity Game Engine            
-| C              | Learned through college courses
+| C              | Learned through personal projects and college courses
 | JavaScript     | From high school programming class 
 | Python         | From high school programming class, also used its turtle library
 | HTML           | From Web Design classes
