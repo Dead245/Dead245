@@ -4,20 +4,21 @@ Hi! My actual name is Colton and I an on a journey to learn all things programmi
 Using Visual Studio 2022 for my programs currently.
 > *Currently Learning: C++ and how GitHub works*
 
-## Experience
+## Technical Experience
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,cpp,cs,c,git,github,unity,blender,javascript,py,html,markdown,lua" />
+  </a>
+</p>
 
-I've fiddled with many things, here's a small list:
+> Also have experience in Gimp and Slack
 
-|Language        |  Experience Type                          
-|----------------|--------------------
-| C++            | Mainly from personal experience and projects    
-| C#             | Using Unity Game Engine            
-| C              | Learned through personal projects and college courses
-| JavaScript     | From high school programming class 
-| Python         | From high school programming class, also used its turtle library
-| HTML           | From Web Design classes
-| GitHub         | *Wait isn't that what I'm using right now?*
-| Markdown       | Used to create this README document
+## Contact Me
+<p align="center">
+  <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/colton-higgins-a62b04227"><img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 <!---
 Dead245/Dead245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
