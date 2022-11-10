@@ -1,6 +1,7 @@
 # Welcome
 
 Hi! My actual name is Colton and I an on a journey to learn all things programming related, frontend, backend, you name it!
+Using Visual Studio 2022 for my programs currently.
 > *Currently Learning: C++ and how GitHub works*
 
 ## Experience
