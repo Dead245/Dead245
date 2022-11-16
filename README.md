@@ -11,7 +11,7 @@ Using Visual Studio 2022 for my programs currently.
   </a>
 </p>
 
-> Also have experience in Gimp and Slack for remote work
+> Formatted in greatest to least experience. Also have experience in Gimp and Slack software.
 
 ## Contact Me
 <p align="center">
