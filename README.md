@@ -1,5 +1,5 @@
 # Welcome 👋🏻
-<img align="right"  alt="Animated Humaniod in Unity" src="https://user-images.githubusercontent.com/116427900/202845982-028143e0-a5fa-45de-9077-ba4b37653b40.gif" width = "200px">
+<img align="right"  alt="Animated Humaniod in Unity" title="Animated Humaniod I made using Unity and Blender" src="https://user-images.githubusercontent.com/116427900/202845982-028143e0-a5fa-45de-9077-ba4b37653b40.gif" width = "200px">
 
 Hi! My actual name is Colton and I an on a journey to learn all things programming related.<br>
 Using Visual Studio 2022 for my programs currently.
