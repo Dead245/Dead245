@@ -2,7 +2,7 @@
 
 Hi! My actual name is Colton and I an on a journey to learn all things programming related.<br>
 Using Visual Studio 2022 for my programs currently.
-> *Currently Learning: C++ and how GitHub works*
+> *Currently Learning: More about C++ and how GitHub works*
 
 ## Technical Experience
 <p align="center">
