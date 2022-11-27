@@ -8,7 +8,7 @@ Using Visual Studio 2022 for my programs currently.
 ## Technical Experience
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,cpp,cs,c,git,github,unity,blender,py,html,markdown,lua&perline=6" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,cpp,cs,c,git,github,unity,markdown,blender,py,html,lua&perline=6" />
   </a>
 </p>
 
