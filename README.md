@@ -3,7 +3,9 @@
 
 Hi! My actual name is Colton and I an on a journey to learn all things programming related.<br>
 Using Visual Studio 2022 for my programs currently.
-> *Currently Learning: More about C++ and how GitHub works*
+
+- *Currently learning more about C++ and how GitHub works*
+- *Also currently figuring out which projects to create repositories for.*
 
 ## Technical Experience
 <p align="center">
@@ -11,9 +13,6 @@ Using Visual Studio 2022 for my programs currently.
     <img src="https://skillicons.dev/icons?i=visualstudio,cpp,cs,c,git,github,unity,markdown,blender,py,html,lua&perline=6" />
   </a>
 </p>
-
-
-> *Formatted in greatest to least experience. Also have experience in Gimp and Slack software.*
 
 ## Contact Me
 <p align="center">
