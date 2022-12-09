@@ -4,7 +4,7 @@
 Hi! My actual name is Colton and I an on a journey to learn all things programming related.<br>
 Using Visual Studio 2022 for my programs currently.
 
-- *Currently learning more about C++ and how GitHub works*
+- *Currently learning more about C++ and GitHub*
 - *Also currently figuring out which projects to create repositories for.*
 
 ## Technical Experience
