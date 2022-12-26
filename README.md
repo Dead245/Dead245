@@ -9,9 +9,12 @@ Using Visual Studio 2022 for my programs currently.
 ## Technical Experience
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,cpp,cs,c,git,github,unity,markdown,blender,py,html,lua&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,git,github,unity,java,markdown,blender,py,html,lua&perline=6" />
   </a>
 </p>
+
+### Programming IDEs
+I've used Visual Studio 2019/2022, VS Code, and IntelliJ to create and run various programs.
 
 ## Contact Me
 <p align="center">
