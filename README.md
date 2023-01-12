@@ -13,7 +13,7 @@ Hi! My name is Colton and I am a software programmer, enjoying making new system
 </p>
 
 ### Programming IDEs
-I've been using <i><b>Visual Studio 2019/2022, VS Code, and IntelliJ</b></i> to create and run various programs for up to <b>4</b> years.
+I've been using <i><b>Visual Studio 2019/2022, VS Code, and IntelliJ</b></i> to create and run various programs for up to **5** years.
 
 ## Contact Me
 <p align="center">
