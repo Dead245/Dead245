@@ -3,7 +3,7 @@
 
 Hi! My name is Colton and I am a software programmer, enjoying making new systems and modifications.<br>
 
-- *Currently trying to expand my knowledge even further beyond*
+- *Currently looking for a career in software development, and trying to expand my knowledge*
 
 ## Technical Experience
 <p align="center">
