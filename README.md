@@ -8,7 +8,7 @@ Hi! My name is Colton and I am a software programmer, enjoying making new system
 ## Technical Experience
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,git,github,unity,java,markdown,blender,py,html,lua&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,c,git,github,unity,java,markdown,blender,sqlite,py,html&perline=6" />
   </a>
 </p>
 
