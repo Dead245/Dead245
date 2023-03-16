@@ -1,7 +1,7 @@
 # Welcome 👋🏻
 <img align="right"  alt="Animated Humaniod in Unity" title="Animated Humaniod I made using Unity and Blender" src="https://user-images.githubusercontent.com/116427900/202845982-028143e0-a5fa-45de-9077-ba4b37653b40.gif" width="200px">
 
-Hi! My name is Colton and I am a software programmer, enjoying making new systems and modifications.<br>
+Hi! My name is Colton and I am a software programmer, enjoying making new systems and modifications.<br> I've been **creating different programs since 2017**, and have been **using GitHub since mid 2022**.
 
 - *Currently looking for a career in software development, and trying to expand my knowledge*
 
@@ -23,6 +23,6 @@ I've been using <i><b>Visual Studio 2019/2022, VS Code, and IntelliJ</b></i> to 
 </p>
 <details>
   <summary><b>My Experience Summary</b></summary>
-I started programming as a hobby in highschool using <b>Unity</b> and <b>C# using Visual Studio</b>. I eventually was able to take some web design and Python programming classes in highschool, allowing me to learn about <b>HTML, JavaScript, Python, and Python's turtle graphics library.</b><br>
+I started programming as a hobby in highschool using <b>Unity</b> and <b>C# using Visual Studio</b>.<br>I eventually was able to take some web design and Python programming classes in highschool, allowing me to learn about <b>HTML, JavaScript, Python, and Python's turtle graphics library.</b><br>
 I continued using <b>C# with Unity</b> as a hobby entering college and took a <b>C++ programming course</b>, where we also learned the basics of C programming. Since then, I've continued to use C# in Unity and have started to create <b>personal projects in C++</b> to expand\display my knowledge. As well as diving into <b>Java for creating a Minecraft mod using Forge by using IntelliJ.</b>
 </details>
