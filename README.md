@@ -3,7 +3,7 @@
 
 Hi! My name is Colton and I am a software programmer, enjoying making new systems and modifications.<br> I've been **creating different programs since 2017**, and have been **using GitHub since mid 2022**.
 
-- *Currently looking for a career in software development, and trying to expand my knowledge*
+- *Currently looking for a career in software development/engineering, and trying to expand my knowledge*
 
 ## Technical Experience
 <p align="center">
