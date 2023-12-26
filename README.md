@@ -8,7 +8,7 @@ Hi! My name is Colton and I am a software programmer, enjoying making new system
 ## Technical Experience
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,c,git,github,unity,java,markdown,blender,sqlite,py,html&perline=6" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,cs,cpp,c,dotnet,git,github,unity,java,markdown,blender,sqlite,html,py&perline=8" />
   </a>
 </p>
 
@@ -21,8 +21,3 @@ I've been using <i><b>Visual Studio 2019/2022, VS Code, and IntelliJ</b></i> to 
     <a href="https://www.linkedin.com/in/colton-higgins-a62b04227"><img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-<details>
-  <summary><b>My Experience Summary</b></summary>
-I started programming as a hobby using <b>Unity</b> and <b>C# using Visual Studio</b>.<br>I eventually was able to take some web design and Python programming classes, allowing me to learn about <b>HTML, JavaScript, Python, and Python's turtle graphics library.</b><br>
-I continued using <b>C# with Unity</b> as a hobby and took a <b>C++ programming course</b>, where I also learned the basics of C programming. Since then, I've continued to use C# in Unity and have started to create <b>personal projects in C++</b> to expand\display my knowledge. As well starting to branch out to other things, such as diving into <b>Java for creating a Minecraft mod using Forge by using IntelliJ.</b>
-</details>
