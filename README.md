@@ -12,8 +12,8 @@ Hi! My name is Colton and I am a software programmer, enjoying making new system
   </a>
 </p>
 
-### Programming IDEs
-I've been using <i><b>Visual Studio 2019/2022, VS Code, and IntelliJ</b></i> to create and run various programs<br> for several years.
+## Programming IDEs
+I have used <i><b>Visual Studio 2019/2022, VS Code, and IntelliJ</b></i> to create and run various programs<br> for several years.
 
 ## Contact Me 📞
 <p align="center">
