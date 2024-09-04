@@ -8,7 +8,7 @@ Hi! My name is Colton and I am a software programmer, enjoying making new system
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,cs,c,cpp,py,dotnet,git,github,unity,java,markdown,blender,sqlite,html&perline=15" />
+    <img src="https://skillicons.dev/icons?i=cs,c,py,sqlite,cpp,dotnet,git,github,unity,java,markdown,blender,html&perline=15" />
   </a>
 </p>
 
